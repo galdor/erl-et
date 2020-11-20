@@ -14,7 +14,7 @@
 
 {application, et,
  [{description, "A collection of Erlang types."},
-  {vsn, "1.1.0"},
+  {vsn, "git"},
   {registered, []},
   {applications,
    [kernel,
